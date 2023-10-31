@@ -1,4 +1,4 @@
-#objective, make a webcam motion detector, draw a box around the movement
+#The following code defines a webcam motion detector it then draws a box around the movement
 
 
 import cv2,time
